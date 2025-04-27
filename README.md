@@ -126,7 +126,7 @@
       A skilled Artificial Intelligence professional with a strong base learning in AI development and advanced security solutions. I practiced to train and fine-tune models on real-world datasets.
       I specialize in developing innovative tools to address real-world security challenges and have led impactful ideas for execution. Passionate about mentoring, I guide aspiring AI developers while driving innovation in Artificial Intelligence.
     </p>
-    <a href="files/Dhanusree Palraj.RESUME.pdf"><button>Resume</button></a>
+    <a href="https://github.com/DhanusreePalraj12/DhanusreePalraj12.github.io/raw/main/Dhanusree%20Palraj.RESUME.pdf"><button>Resume</button></a>
   </div>
 
   <!-- Social Links -->
