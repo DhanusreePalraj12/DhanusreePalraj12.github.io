@@ -170,7 +170,7 @@
       <p>This certificate is awarded by IIT Madras Shaastra Events 2025 for my participation in the Blockchain development workshop, held in 2024.</p>
     </div>
     <div>
-      <img src="images/Screenshot 2024-12-20 204241.png" alt="Workshop 2" />
+      <img src="https://private-user-images.githubusercontent.com/192505596/437960436-e39875ef-2135-4b6c-a52e-eb74b5292491.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjIyNjIsIm5iZiI6MTc0NTc2MTk2MiwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYwNDM2LWUzOTg3NWVmLTIxMzUtNGI2Yy1hNTJlLWViNzRiNTI5MjQ5MS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzUyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNWY0NDAwMDUxNzNhZWY5NTlkNGQ2Yzg0YzdkM2NlMTgzZDVmNzI2NDBmZjY2NjM5ZWFiMTIxNzVkMjNiNTE2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZPFCiNN2Mp1_5zohAhym7cv8mc7j8gNqzCrKu3KKYaY" alt="Workshop 2" />
       <p>Certificate for completion of an Ignite learning challenge on AI solutions by MICROSOFT AZURE, held in 2024</p>
     </div>
     <div>
@@ -178,20 +178,20 @@
       <p>Certificate for the completion of Networking and Web Technology using the online learning platform INFOSYS</p>
     </div>
     <div>
-      <img src="images/Screenshot 2025-04-24 205819.png" alt="Certificate 4" />
+      <img src="https://private-user-images.githubusercontent.com/192505596/437960432-44c2c943-63e9-438d-a5b4-9b7deacc36d7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjIyNjIsIm5iZiI6MTc0NTc2MTk2MiwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYwNDMyLTQ0YzJjOTQzLTYzZTktNDM4ZC1hNWI0LTliN2RlYWNjMzZkNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzUyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MmZjODFlZTczMDllM2NkMzVmMTY3ZjUzZWQ1M2RkNGQ3ZDZiZGE5NjBjNDU4Mjc1ZTJjM2VlMmNkOWZkMTNmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WJLWMLpebV2vJY3SBtz378CzKu5qHtysQJgdmus2P88" alt="Certificate 4" />
       <p>Certificate for the completion of a course AWS Certified Developer</p>
     </div>
     <div>
-      <img src="images/Screenshot 2025-04-25 121529.png" alt="Certificate 5" />
+      <img src="https://private-user-images.githubusercontent.com/192505596/437960441-5f158768-d8ac-42d6-9548-9c3bd0c4c986.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjIyNjIsIm5iZiI6MTc0NTc2MTk2MiwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYwNDQxLTVmMTU4NzY4LWQ4YWMtNDJkNi05NTQ4LTljM2JkMGM0Yzk4Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzUyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03YWJhN2Q0Yjg0N2U4ODk0YWJhMmU0MjMyOTYzYjhlNDZhNDhlODZkYTYyZWRmNjhhNjgwZmI1OWJmYmVjNjMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Q5-f8bll6Js3uROfn0qpxQ2C6ooUveHDym0Y8N5UvKI" alt="Certificate 5" />
       <p>Certificate for completing Engineering modeling fundamentals CAD 2D/3D</p>
     </div>
     <div>
-      <img src="images/Screenshot 2025-04-25 121841.png" alt="Certificate 6" />
+      <img src="https://private-user-images.githubusercontent.com/192505596/437960453-c8b274a0-bfee-461d-964a-58e9ed7982b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjI2NjMsIm5iZiI6MTc0NTc2MjM2MywicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYwNDUzLWM4YjI3NGEwLWJmZWUtNDYxZC05NjRhLTU4ZTllZDc5ODJiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzU5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MTI3YzI1ZmNhYmI1YTIxZjcwOTU0Y2E1NDRhNGMzMTE1NjFlNzAwNzVkOTZhM2IwODA0ZTk1NTgzZTM4MmEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dO-TGvFnT0qaNgD0PTqfPugsEuZqnJdTfdB7gqOQrnA" alt="Certificate 6" />
       <p>Certificate of challenge completion on Microsoft Copilot for Security by MICROSOFT AZURE</p>
     </div>
     <div>
-      <img src="images/Screenshot 2025-04-25 121704.png" alt="Certificate 7" />
-      <p>Certificate for completing mining fundamentals using AI tools by Clonis learning platform</p>
+      <img src="https://private-user-images.githubusercontent.com/192505596/437960447-93507026-9a8d-4105-b5cf-83be1f4d8f65.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjIyNjIsIm5iZiI6MTc0NTc2MTk2MiwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYwNDQ3LTkzNTA3MDI2LTlhOGQtNDEwNS1iNWNmLTgzYmUxZjRkOGY2NS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzUyNDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZmZiMzQyZGM1MmNmNDFlZDNmYTYyNGQ0ODkzYTljNzM3OTNkZTdiYTBhNjA0Nzk3ZDYzZGFkYTJhMzZmNTZkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.rlxWIe5E1nZHTu4eBdp5Up9iTv_ppcAX5zeqvqHjX9g" alt="Certificate 7" />
+      <p>Certificate for completing mining fundamentals using AI tools by Celonis learning platform</p>
     </div>
   </div>
 </div>
