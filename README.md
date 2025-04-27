@@ -174,7 +174,7 @@
       <p>Certificate for completion of an Ignite learning challenge on AI solutions by MICROSOFT AZURE, held in 2024</p>
     </div>
     <div>
-      <img src="images/Screenshot 2025-04-24 184049.png" alt="Certificate 3" />
+      <img src="https://private-user-images.githubusercontent.com/192505596/437959828-18861436-70d1-4d99-a39c-9bca6b79d59f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjE4MTcsIm5iZiI6MTc0NTc2MTUxNywicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTU5ODI4LTE4ODYxNDM2LTcwZDEtNGQ5OS1hMzljLTliY2E2Yjc5ZDU5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzQ1MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmE0ODVjZjRlZjdiNjUzZDMyZDFjMjVmMTIyZDBlMmRhY2RkZTgxN2VhMGExNTZlNTE1NzQxNDcwNzc2NDk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UM2yEA-cVXjwNlYkwWfkJC42A2W5MZnCbSvkux-YnA4" alt="Certificate 3" />
       <p>Certificate for the completion of Networking and Web Technology using the online learning platform INFOSYS</p>
     </div>
     <div>
