@@ -165,7 +165,7 @@
   <p>Here are some of my course completion and workshop certificates:</p>
   <div class="certificate-grid">
     <div>
-      <img src="https://github.com/DhanusreePalraj12/DhanusreePalraj12.github.io/issues/2" alt="workshop 1" />
+      <img src="https://private-user-images.githubusercontent.com/192505596/437956123-33bb04d4-a075-4e24-9ea6-fd88fd096c63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NTg4ODQsIm5iZiI6MTc0NTc1ODU4NCwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTU2MTIzLTMzYmIwNGQ0LWEwNzUtNGUyNC05ZWE2LWZkODhmZDA5NmM2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMjU2MjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYWRmY2UxMGYzYjI2ODBhZmZiNmQwYjU3MWFlNDJmNjlkZDA2NWM5MTVhZTQzNjAwNDc3MzA3YWExNGQzNmEzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MiOrHDnY4DgKgARbMQS0OeBwuYlGCEgORWvxLdibX7A" alt="workshop 1" />
       
       <p>This certificate is awarded by IIT Madras Shaastra Events 2025 for my participation in the Blockchain development workshop, held in 2024.</p>
     </div>
