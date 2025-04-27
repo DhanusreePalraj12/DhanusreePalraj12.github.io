@@ -165,7 +165,8 @@
   <p>Here are some of my course completion and workshop certificates:</p>
   <div class="certificate-grid">
     <div>
-      <img src="images/Screenshot 2025-04-24 165127.png" alt="workshop 1" />
+      <img src="![Screenshot 2025-04-24 165127](https://github.com/user-attachments/assets/ee6510d6-af93-47d8-b5fc-2ed02b0c29dd)
+" alt="workshop 1" />
       <p>This certificate is awarded by IIT Madras Shaastra Events 2025 for my participation in the Blockchain development workshop, held in 2024.</p>
     </div>
     <div>
