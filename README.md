@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -108,7 +108,7 @@
 <body>
 
 <header>
-  <div><strong>Dhanusree Palraj</strong></div>
+  <div><strong>welcome</strong></div>
   <nav>
     <a onclick="showSection('home')">Home</a>
     <a onclick="showSection('about')">About</a>
