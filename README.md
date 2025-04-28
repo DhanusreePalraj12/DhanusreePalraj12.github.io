@@ -165,7 +165,7 @@
   <p>Here are some of my course completion and workshop certificates:</p>
   <div class="certificate-grid">
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437956123-33bb04d4-a075-4e24-9ea6-fd88fd096c63.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjEyNjQsIm5iZiI6MTc0NTc2MDk2NCwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTU2MTIzLTMzYmIwNGQ0LWEwNzUtNGUyNC05ZWE2LWZkODhmZDA5NmM2My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzM2MDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZTMxMjE3ZmUzYTliMTYyNjNlYzJiZTNiNmJkMTQzNDFhMTMxMDJlNjZiMWI5MGE0OWM1NjhlN2Y2ZmQwODRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.HDCb8Y6AbTD2OtwxkueG_sjqpRLTxtXkIXCtxG2HRPk" alt="workshop 1" />
+      <img src="Screenshot 2025-04-24 165127.png" alt="workshop 1" />
       
       <p>This certificate is awarded by IIT Madras Shaastra Events 2025 for my participation in the Blockchain development workshop, held in 2024.</p>
     </div>
@@ -174,11 +174,11 @@
       <p>Certificate for completion of an Ignite learning challenge on AI solutions by MICROSOFT AZURE, held in 2024</p>
     </div>
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437959828-18861436-70d1-4d99-a39c-9bca6b79d59f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjE4MTcsIm5iZiI6MTc0NTc2MTUxNywicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTU5ODI4LTE4ODYxNDM2LTcwZDEtNGQ5OS1hMzljLTliY2E2Yjc5ZDU5Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzQ1MTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmE0ODVjZjRlZjdiNjUzZDMyZDFjMjVmMTIyZDBlMmRhY2RkZTgxN2VhMGExNTZlNTE1NzQxNDcwNzc2NDk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UM2yEA-cVXjwNlYkwWfkJC42A2W5MZnCbSvkux-YnA4" alt="Certificate 3" />
+      <img src="Screenshot 2025-04-24 184049.png" alt="Certificate 3" />
       <p>Certificate for the completion of Networking and Web Technology using the online learning platform INFOSYS</p>
     </div>
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437972440-33424cfa-8ab7-4361-ac27-bf95d7483adb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NzEwODMsIm5iZiI6MTc0NTc3MDc4MywicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTcyNDQwLTMzNDI0Y2ZhLThhYjctNDM2MS1hYzI3LWJmOTVkNzQ4M2FkYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxNjE5NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yZTc0NDk2ZDY0MGUwNzA3NTViMmI5NjhlMTYzYzNmMzc5OTRkOTgyYjlmYWQ4YmNiZGIxMGM2YWQ1Yjg0N2M0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.PrYiuu-lMpVhMgA8UgR4Dn8mnkUiY6pD7vy71K4IbTI" alt="Certificate 4" />
+      <img src="Screenshot 2025-04-24 205819.png" alt="Certificate 4" />
       <p>Certificate for the completion of a course AWS Certified Developer</p>
     </div>
     <div>
