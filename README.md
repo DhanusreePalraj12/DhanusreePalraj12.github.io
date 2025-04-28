@@ -108,7 +108,7 @@
 <body>
 
 <header>
-  <div><strong>welcome</strong></div>
+  <div><strong>Navbar</strong></div>
   <nav>
     <a onclick="showSection('home')">Home</a>
     <a onclick="showSection('about')">About</a>
@@ -121,7 +121,7 @@
 <div class="container active" id="home">
   <div class="content">
     <h2>Hi, I am Dhanusree</h2>
-    <h3>AI Engineer</h3>
+    <h3>An AI Engineer</h3>
     <p>
       A skilled Artificial Intelligence professional with a strong base learning in AI development and advanced security solutions. I practiced to train and fine-tune models on real-world datasets.
       I specialize in developing innovative tools to address real-world security challenges and have led impactful ideas for execution. Passionate about mentoring, I guide aspiring AI developers while driving innovation in Artificial Intelligence.
