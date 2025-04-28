@@ -186,7 +186,7 @@
       <p>Certificate for completing Engineering modeling fundamentals CAD 2D/3D</p>
     </div>
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437960453-c8b274a0-bfee-461d-964a-58e9ed7982b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjI2NjMsIm5iZiI6MTc0NTc2MjM2MywicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYwNDUzLWM4YjI3NGEwLWJmZWUtNDYxZC05NjRhLTU4ZTllZDc5ODJiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxMzU5MjNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MTI3YzI1ZmNhYmI1YTIxZjcwOTU0Y2E1NDRhNGMzMTE1NjFlNzAwNzVkOTZhM2IwODA0ZTk1NTgzZTM4MmEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dO-TGvFnT0qaNgD0PTqfPugsEuZqnJdTfdB7gqOQrnA" alt="Certificate 6" />
+      <img src="Screenshot 2025-04-25 121841.png" alt="Certificate 6" />
       <p>Certificate of challenge completion on Microsoft Copilot for Security by MICROSOFT AZURE</p>
     </div>
     <div>
