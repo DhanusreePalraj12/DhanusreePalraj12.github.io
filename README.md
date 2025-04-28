@@ -170,7 +170,7 @@
       <p>This certificate is awarded by IIT Madras Shaastra Events 2025 for my participation in the Blockchain development workshop, held in 2024.</p>
     </div>
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437968520-3b38af23-bde0-4d41-b39f-59a28b9cf34b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjgwMzYsIm5iZiI6MTc0NTc2NzczNiwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTY4NTIwLTNiMzhhZjIzLWJkZTAtNGQ0MS1iMzlmLTU5YTI4YjljZjM0Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxNTI4NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05YzVhNTNhY2YzMmRkNzM1MWEwMTI2N2NmZGY5NjIxZDY1OTQxYjg5MTg0OTZiYzI4MWEwZjAxOTI5OGFmMGE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.99V_GCSEHYcgC2sLAvMaJi34pnTZp8syQ7af5zP4d20" alt="Workshop 2" />
+      <img src="Screenshot 2024-12-20 204241.png" alt="Workshop 2" />
       <p>Certificate for completion of an Ignite learning challenge on AI solutions by MICROSOFT AZURE, held in 2024</p>
     </div>
     <div>
