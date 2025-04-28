@@ -182,7 +182,7 @@
       <p>Certificate for the completion of a course AWS Certified Developer</p>
     </div>
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437963992-b376b622-97bf-40da-bb99-bdad1afa1376.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjQ4NjIsIm5iZiI6MTc0NTc2NDU2MiwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTYzOTkyLWIzNzZiNjIyLTk3YmYtNDBkYS1iYjk5LWJkYWQxYWZhMTM3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxNDM2MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMjY3OWE0MWQ1ZTcxN2ZkNDk3MzVhNDFiOWFjMzUzYjNjNDRiMDVhMzJiOGIxYzU1NmM1MzMzMDM1M2E4ZTUzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WJdRMhX5VfxEgYLrpLP7-6ottA6rvr8DwS_vAD6Y0kk" alt="Certificate 5" />
+      <img src="Screenshot 2025-04-25 121529.png" alt="Certificate 5" />
       <p>Certificate for completing Engineering modeling fundamentals CAD 2D/3D</p>
     </div>
     <div>
@@ -190,7 +190,7 @@
       <p>Certificate of challenge completion on Microsoft Copilot for Security by MICROSOFT AZURE</p>
     </div>
     <div>
-      <img src="https://private-user-images.githubusercontent.com/192505596/437964246-c9eac648-f070-43e9-9366-aff0333ecbfa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDU3NjUwNjEsIm5iZiI6MTc0NTc2NDc2MSwicGF0aCI6Ii8xOTI1MDU1OTYvNDM3OTY0MjQ2LWM5ZWFjNjQ4LWYwNzAtNDNlOS05MzY2LWFmZjAzMzNlY2JmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDI3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQyN1QxNDM5MjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZTViNTg2MDA0NzVmMmM0Y2ViZGU4YjdmYTQ5NjI2YmUzOTIyZjE5MzdkNjk0MWY4NDY2NjI1MjdiMDJkNjdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.gY3Iv-bOdLkXVS-G8OGP3aoGlcf3jk6lRw9NimP3LOE" alt="Certificate 7" />
+      <img src="Screenshot 2025-04-25 121704.png" alt="Certificate 7" />
       <p>Certificate for completing mining fundamentals using AI tools by Celonis learning platform</p>
     </div>
   </div>
